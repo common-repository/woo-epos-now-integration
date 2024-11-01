@@ -1,0 +1,27 @@
+.sln_full_field{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.sln_half_field{
+    width: 50%;
+    max-width: 50%;
+}
+.woocommerce_variable_attributes .form-field span.woocommerce-help-tip {
+    float: right;
+}
+
+.sln_edit_container span.title{
+    width: 20% !important;
+}
+.sln_edit_container span.input-text-wrap {
+    width: 80% !important;
+}
+/*
+.sln_edit_container span.title{
+    margin-right: 20px !important;
+}*/
+.sln_edit_container span.input-text-wrap input,
+.sln_edit_container span.input-text-wrap select,
+.sln_edit_container span.input-text-wrap textarea{
+    width: 80% !important;
+}
